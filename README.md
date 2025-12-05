@@ -82,7 +82,7 @@ Notes app with categories, markdown, local storage & smooth UI.
 
 ## 📸 Portfolio Preview  
 
-<img src="https://preeti9343.github.io/mynewportfolio/images/img2.JPG" width="700px" style="border-radius:12px;"/>
+<img src="https://preeti9343.github.io/mynewportfolio/images/img2.JPG" width="300px" style="border-radius:12px;"/>
 
 </div>
 
